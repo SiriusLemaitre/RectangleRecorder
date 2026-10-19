@@ -1,0 +1,10 @@
+src/bin/
+src/obj/
+app/
+staging/
+package/
+tools/
+verification*/
+*.zip
+settings.json
+launcher.ini
